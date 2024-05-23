@@ -1,7 +1,7 @@
 # Projects
 # Project 1  BIG DATA Analytics using Python
 ## (Title:Twitter Sentiment Analysis)
- #### Sorce of Dataset: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
+ #### Sorce of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
 ### Introduction
 
 #### In this assignment I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
@@ -30,7 +30,7 @@
 
 # Project 2 Data Analysis using Python
 ## (Title: Udemy Courses Analysis)
-#### source:https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
+#### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ### Introduction
 #### In this task I analyzed the Udemy courses data set as to find good insights and answer some of the most important business questions. 
 
