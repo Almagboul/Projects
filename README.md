@@ -29,9 +29,9 @@
 
 
 # Project 2 Data Analysis using Python
-# (Title: Udemy Courses Analysis)
+## (Title: Udemy Courses Analysis)
 #### source:https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
-## Introduction
+### Introduction
 #### In this task I analyzed the Udemy courses data set as to find good insights and answer some of the most important business questions. 
 
 
