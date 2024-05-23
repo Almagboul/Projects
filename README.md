@@ -5,9 +5,9 @@
 ## Introduction
 
 #### In this assignment I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
-## First:Show a picture that highlights words associated with positivity.
+## Show a picture that highlights words associated with positivity.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/Poitivity.png)
-## Second: Show a picture that highlights words associated with negativity.
+## Show a picture that highlights words associated with negativity.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/ngetivity.png)
 ## Ranking and visulizing the top 10 tweets with positive sentiments.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
