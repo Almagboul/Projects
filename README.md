@@ -1,5 +1,5 @@
 # Projects
-# Project 1  BIG DATA Analytics using Python
+# Project 1  BIG DATA Analytics Using Python
 ## (Title:Twitter Sentiment Analysis)
  #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
 ### Introduction
@@ -28,7 +28,7 @@
 
 
 
-# Project 2 Data Analysis using Python
+# Project 2 Data Analysis Using Python
 ## (Title: Udemy Courses Analysis)
 #### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ### Introduction
