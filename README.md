@@ -1,5 +1,5 @@
 # Projects
-# Project 1  BIG DATA Analytics Using Python
+# Project 1  BIG DATA Analytics(NLP) Using Python
 ## (Title:Twitter Sentiment Analysis)
  #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
 ### Introduction
