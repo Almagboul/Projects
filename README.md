@@ -33,5 +33,40 @@
 #### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ### Introduction
 #### In this task I analyzed the Udemy courses data set as to find good insights and answer some of the most important business questions. 
+Udemy Courses Analysis
+Overview
+This project analyzes a dataset of Udemy courses to uncover insights about course offerings, popularity, and trends over time. The dataset includes attributes such as course title, price, number of subscribers, number of reviews, and more. The goal is to provide valuable information for business decisions and strategic planning.
+Dataset
+The dataset used for this analysis is available on Kaggle: Udemy Courses Dataset.
+Analysis and Insights
+Data Pre-processing and Exploration:
+Checked for missing values and duplicates.
+Explored the distribution of courses by subject and level.
+Analyzed trends in course publication over time.
+Examined the ratio of free vs paid courses.
+Key Findings:
+The most popular subjects on Udemy are Web Development and Business Finance.
+A majority of courses are designed for all levels, with fewer courses targeting expert-level learners.
+The number of courses published has increased over time, indicating a growing market for online learning.
+Paid courses significantly outnumber free courses.
+Visualizations:
+Bar charts and pie charts were used to illustrate the distribution of courses by subject and level.
+Line charts highlighted trends in course publication over time.
+Box plots and tree maps provided insights into the number of subscribers for different subjects.
+Power BI Dashboard
+An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals such as:
+Course distribution by subject
+Number of courses by level
+Trend of published courses over time
+Distribution of free vs paid courses
+Top 10 courses by number of subscribers
+Number of subscribers by subject
+Repository Contents
+cleaned_udemy_courses.csv: Cleaned dataset used for analysis.
+Udemy_Courses_Analysis.ipynb: Jupyter notebook with data pre-processing and analysis code.
+PowerBI_Dashboard.pbix: Power BI file with the created dashboard.
+Conclusion
+This analysis provides comprehensive insights into Udemy's course offerings and trends. The Power BI dashboard facilitates interactive exploration, making it a valuable tool for data-driven decision-making.
+Feel free to explore the repository and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 
