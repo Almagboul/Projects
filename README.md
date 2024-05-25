@@ -5,10 +5,7 @@
 ### Introduction
 
  In this assignment I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
-### Repository Contents
-#### Project 1 File contains
-train & test .csv
-Project 1.ipynb & html
+
 
 ### Show a picture that highlights words associated with positivity.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/Poitivity.png)
@@ -17,7 +14,10 @@ Project 1.ipynb & html
 ![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
 
   
-
+### Repository Contents
+#### Project 1 File contains
+##### train & test .csv
+##### Project 1.ipynb & html
 ### Conclusion
  We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying Tfidf weighting. Then, I built two classification models: Decision Trees model and a support vector classifier to categorize future tweets.Due to the limitations of machines in processing text-based data, it is imperative to convert the data into a numerical format for effective handling.By simplifying and filtering the text, we generate cleaner data for processing, ultimately leading to improved outcomes.To assess the results, we can employ various machine learning techniques for comparison.
 #### Limitation
@@ -71,10 +71,10 @@ Number of courses in each subject with regard to price category
 Number of courses in each subject with regard to courses levels
 ### Repository Contents
 #### Project 2 File contains
-cleaned udemy_courses.csv: Cleaned dataset used for analysis.
-Modified _udemy_courses.csv: Modified dataset used for crating the Dashboard.
-Project 2.ipynb & html: Jupyter notebook with data pre-processing and analysis code.
-Project 2 PowerBI_Dashboard.pbix & pdf: Power BI files with the created dashboard.
+##### cleaned udemy_courses.csv: Cleaned dataset used for analysis.
+##### Modified _udemy_courses.csv: Modified dataset used for crating the Dashboard.
+##### Project 2.ipynb & html: Jupyter notebook with data pre-processing and analysis code.
+#### Project 2 PowerBI_Dashboard.pbix & pdf: Power BI files with the created dashboard.
 
 ### Conclusion
 This analysis provides comprehensive insights into Udemy's course offerings and trends. The Power BI dashboard facilitates interactive exploration, making it a valuable tool for data-driven decision-making.
