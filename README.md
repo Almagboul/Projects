@@ -28,7 +28,7 @@
  Different models were tested on the data to find out which one is the best.
 #### Implication
  The best model can be used to predict the sentiments of new tweets that are generated.
- #### Feel free to explore the repository to gain detailed insights.
+ #### Feel free to explore the repository(Project 1 File) to gain detailed insights.
 
 
 
@@ -84,6 +84,6 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 
 ### Conclusion
 This analysis provides comprehensive insights into Udemy's course offerings and trends. The Power BI dashboard facilitates interactive exploration, making it a valuable tool for data-driven decision-making.
-#### Feel free to explore the repository and the dashboard to gain deeper insights into the Udemy courses dataset.
+#### Feel free to explore the repository(Project 2 File) and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 
