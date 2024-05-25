@@ -14,8 +14,8 @@
 ![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
 
  
-### Repository Contents
-#### Project 1 File contains
+### Repository(Project 1/File) Contents
+
 ##### train & test .csv
 ##### Project 1.ipynb & html
 ### Conclusion
@@ -83,8 +83,8 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Number of courses in each subject with regard to price category
 #### Number of courses in each subject with regard to courses levels
 
-### Repository Contents
-#### Project 2 File contains
+### Repository(Project 2/File) Contents
+
 ##### cleaned udemy_courses.csv: Cleaned dataset used for analysis.
 ##### Modified _udemy_courses.csv: Modified dataset used for crating the Dashboard.
 ##### Project 2.ipynb & html: Jupyter notebook with data pre-processing and analysis code.
