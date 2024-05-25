@@ -4,7 +4,7 @@
  #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
 ### Introduction
 
- In this assignment I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
+ In this task I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
 
 
 ### Show a picture that highlights words associated with positivity.
