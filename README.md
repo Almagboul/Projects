@@ -52,7 +52,7 @@ Bar charts and pie charts were used to illustrate the distribution of courses by
 Line charts highlighted trends in course publication over time.
 Box plots and tree maps provided insights into the number of subscribers for different subjects.
 Power BI Dashboard
-![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/Untitled.png)
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/Untitled%202.png)
 An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals such as:
 Course distribution by subject
