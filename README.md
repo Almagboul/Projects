@@ -63,7 +63,6 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 
 ### Udemy Courses Dashboard
 
-
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%202.png)
 
