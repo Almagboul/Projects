@@ -66,7 +66,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%202.png)
 
-### An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals such as:
+### An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals as:
 #### Course distribution by subject
 #### Number of courses by level
 #### Trend of published courses over time
@@ -84,6 +84,6 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 
 ### Conclusion
 This analysis provides comprehensive insights into Udemy's course offerings and trends. The Power BI dashboard facilitates interactive exploration, making it a valuable tool for data-driven decision-making.
-Feel free to explore the repository and the dashboard to gain deeper insights into the Udemy courses dataset.
+#### Feel free to explore the repository and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 
