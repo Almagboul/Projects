@@ -26,7 +26,7 @@
 
 
 
-# Project 2 Data Analysis Using Python
+# Project 2 Data Analysis Using Python & Power BI
 ## (Title: Udemy Courses Analysis)
 #### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ### Introduction
