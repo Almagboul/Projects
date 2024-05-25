@@ -33,12 +33,12 @@
 
 # Project 2 Data Analysis Using Python & Power BI
 ## (Title: Udemy Courses Analysis)
-#### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 
 ### Overview
 This project analyzes a dataset of Udemy courses to uncover insights about course offerings, popularity, and trends over time. The dataset includes attributes such as course title, price, number of subscribers, number of reviews, and more. The goal is to provide valuable information for business decisions and strategic planning.
 ### Dataset
-The dataset used for this analysis is available on Kaggle: Udemy Courses Dataset.
+The dataset used for this analysis is available on Kaggle: Udemy Courses .
+#### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ### Analysis and Insights
 ### Data Pre-processing and Exploration:
 Checked for missing values and duplicates.
