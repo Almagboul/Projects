@@ -53,11 +53,16 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Also Number of courses in each subject with regard to courses levels.
 ### Key Findings:
 #### The most popular subjects on Udemy are Web Development and Business Finance.
+#### Most Popular Course: Learn HTML5 Programming From Scratch
 #### A majority of courses are designed for all levels, with fewer courses targeting expert-level learners.
 #### The number of courses published has increased over time, indicating a growing market for online learning.
 #### Paid courses significantly outnumber free courses.
 #### The most frequently used price category is between $20 and $50.
+#### Total Sales: $881674940.00.
+#### Average Order Value: $240107.55.
+
 ### Udemy Courses Dashboard
+
 
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%202.png)
