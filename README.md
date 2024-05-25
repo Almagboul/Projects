@@ -39,36 +39,36 @@ This project analyzes a dataset of Udemy courses to uncover insights about cours
 ### Dataset
 The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
-### Analysis and Insights
+## Analysis and Insights
 ### Data Pre-processing and Exploration:
-Checked for missing values and duplicates.
-Explored the distribution of courses by subject and level.
-Analyzed trends in course publication over time.
-Examined the ratio of free vs paid courses.
-Looked at Top 10 Courses by Number of Subscribers.
-Also Number of Subscribers by Subject.
-Found Number ofcourses in each subject with regard to price category
-Also Number of courses in each subject with regard to courses levels.
-Key Findings:
-The most popular subjects on Udemy are Web Development and Business Finance.
-A majority of courses are designed for all levels, with fewer courses targeting expert-level learners.
-The number of courses published has increased over time, indicating a growing market for online learning.
-Paid courses significantly outnumber free courses.
-The most frequently used price category is between $20 and $50.
+#### Checked for missing values and duplicates.
+#### Explored the distribution of courses by subject and level.
+#### Analyzed trends in course publication over time.
+#### Examined the ratio of free vs paid courses.
+#### Looked at Top 10 Courses by Number of Subscribers.
+#### Also Number of Subscribers by Subject.
+#### Found Number ofcourses in each subject with regard to price category
+#### Also Number of courses in each subject with regard to courses levels.
+### Key Findings:
+#### The most popular subjects on Udemy are Web Development and Business Finance.
+#### A majority of courses are designed for all levels, with fewer courses targeting expert-level learners.
+#### The number of courses published has increased over time, indicating a growing market for online learning.
+#### Paid courses significantly outnumber free courses.
+#### The most frequently used price category is between $20 and $50.
 ### Udemy Courses Dashboard
 
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%202.png)
 
 ### An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals such as:
-Course distribution by subject
-Number of courses by level
-Trend of published courses over time
-Distribution of free vs paid courses
-Top courses by number of subscribers
-Number of subscribers by subject
-Number of courses in each subject with regard to price category
-Number of courses in each subject with regard to courses levels
+#### Course distribution by subject
+#### Number of courses by level
+#### Trend of published courses over time
+#### Distribution of free vs paid courses
+#### Top courses by number of subscribers
+#### Number of subscribers by subject
+#### Number of courses in each subject with regard to price category
+#### Number of courses in each subject with regard to courses levels
 ### Repository Contents
 #### Project 2 File contains
 ##### cleaned udemy_courses.csv: Cleaned dataset used for analysis.
