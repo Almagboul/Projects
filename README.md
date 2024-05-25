@@ -13,13 +13,14 @@
 ### Ranking and visulizing the top 10 tweets with positive sentiments.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
 
-  
+ 
 ### Repository Contents
 #### Project 1 File contains
 ##### train & test .csv
 ##### Project 1.ipynb & html
 ### Conclusion
  We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying Tfidf weighting. Then, I built two classification models: Decision Trees model and a support vector classifier to categorize future tweets.Due to the limitations of machines in processing text-based data, it is imperative to convert the data into a numerical format for effective handling.By simplifying and filtering the text, we generate cleaner data for processing, ultimately leading to improved outcomes.To assess the results, we can employ various machine learning techniques for comparison.
+
 #### Limitation
 1. Although I looked at some text preprocesssing techniques, other texts might produce better accuracies and evaluation scores of the best models (or other models).
 2. Other advanced models that were not tested here could probably be a better fit and produce better evaluation scores.
@@ -27,6 +28,7 @@
  Different models were tested on the data to find out which one is the best.
 #### Implication
  The best model can be used to predict the sentiments of new tweets that are generated.
+ #### Feel free to explore the repository to gain detailed insights.
 
 
 
