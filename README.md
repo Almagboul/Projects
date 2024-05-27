@@ -87,10 +87,10 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/neg.png)
 
  
-#### Repository(Project 2/File) Contents:
+### Repository(Project 2/File) Contents:
 
-##### train & test .csv
-##### Project 2.ipynb & html
+#### train & test .csv
+#### Project 2.ipynb & html
 
 ### Conclusion
  We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying Tfidf weighting. Then, I built two classification models: Decision Trees model and a support vector classifier to categorize future tweets.Due to the limitations of machines in processing text-based data, it is imperative to convert the data into a numerical format for effective handling.By simplifying and filtering the text, we generate cleaner data for processing, ultimately leading to improved outcomes.To assess the results, we can employ various machine learning techniques for comparison.
