@@ -68,7 +68,29 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 ### Introduction
 
  In this task I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
+ This project analyzes tweets to identify those containing mean or unfair words, especially those that are racist or sexist. The primary goal is to determine if a tweet has a negative sentiment related to race or gender.
  
+ ### Libraries Used
+#### Data Manipulation: pandas, numpy
+#### Visualization: matplotlib, seaborn, wordcloud
+#### Text Processing: re, string, nltk
+#### Model Building: sklearn
+#### Warnings Handling: warnings
+### Data Preprocessing
+#### Load Dataset: Read the CSV file into a pandas DataFrame.
+#### Drop Irrelevant Columns: Removed the 'id' column.
+#### Remove Twitter Handles: Removed all words starting with '@' using regex.
+#### Remove Special Characters: Removed non-alphabetic characters.
+#### Remove Short Words: Removed words shorter than 3 characters.
+#### Tokenize Tweets: Split tweets into individual words.
+#### Stemming: Reduced words to their base form using the PorterStemmer.
+#### Reconstruct Tweets: Combined the stemmed words back into sentences.
+### Exploratory Data Analysis
+#### Word Cloud Visualization
+#### All Tweets: Identified commonly used words. Larger words indicate higher frequency.
+
+
+#### Positive Tweets: Highlighted frequent positive words like 'love' and 'thank'.
  ### Dataset
 The dataset used for this analysis is available on Kaggle: Twitter Sentiment Analysis.
  #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
@@ -76,30 +98,54 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 #### Show a picture that highlights words associated with positivity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/Poitivity.png)
 
+#### Negative Tweets: Highlighted frequent negative words, including racist and sexist terms like 'black' and 'women'.
 #### Show a picture that highlights words associated with negativity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/ngetivity.png)
 
+
+### Hashtag Analysis
+#### Extracted hashtags from tweets to identify trends and patterns.
+
+### Visualized the top 10 hashtags for both positive and negative sentiments.
 #### Ranking and visulizing the top 10 tweets with positive sentiments:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/posi.png)
 #### Ranking and visulizing the top 10 tweets with negative sentiments:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/neg.png)
 
- 
+
+
+### Feature Engineering
+Feature engineering is a crucial step in preparing data for machine learning. Since machines cannot directly understand words or text, we need to convert them into vectors using TF-IDF, a technique that often provides better accuracy compared to other vectorization methods in NLP.
+
+#### 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
+#### 2.Split Data into Training and Testing Sets:
+### Model Accuracy Comparison:
+#### Decision Tree: 94.65%
+#### SVM: 96.24%
+#### Random Forest: 92.98%
+#### KNN: 94.88%
+### Sentiment Prediction on New Data
+#### 1.Load and Preprocess Test Data
+#### 2.Vectorization and Sentiment Prediction:
+
 ### Repository(Project 2/File) Contents:
 
 #### train & test .csv
 #### Project 2.ipynb & html
 
 ### Conclusion
- We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying Tfidf weighting. Then, I built two classification models: Decision Trees model and a support vector classifier to categorize future tweets.Due to the limitations of machines in processing text-based data, it is imperative to convert the data into a numerical format for effective handling.By simplifying and filtering the text, we generate cleaner data for processing, ultimately leading to improved outcomes.To assess the results, we can employ various machine learning techniques for comparison.
+We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying TF-IDF weighting. Then, we built several classification models to categorize future tweets, with the SVM model achieving the highest accuracy. The best model can be used to predict the sentiments of new tweets, enabling better monitoring of harmful content on social media.
 
-#### Limitation
-1. Although I looked at some text preprocesssing techniques, other texts might produce better accuracies and evaluation scores of the best models (or other models).
-2. Other advanced models that were not tested here could probably be a better fit and produce better evaluation scores.
-#### Strength
- Different models were tested on the data to find out which one is the best.
-#### Implication
- The best model can be used to predict the sentiments of new tweets that are generated.
+#### Limitations
+##### Other text preprocessing techniques might improve accuracy and evaluation scores.
+##### Advanced models not tested here could potentially yield better results.
+#### Strengths
+#### Multiple models were tested to determine the best fit.
+#### Comprehensive preprocessing ensured cleaner data for analysis.
+#### Implications
+##### The best model can be used to predict the sentiments of new tweets, helping to identify and address harmful content in real-time.
+
+
  #### Feel free to explore the repository(Project 2/File) to gain detailed insights.
 
 
