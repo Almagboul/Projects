@@ -68,14 +68,17 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 ### Introduction
 
  This project analyzes tweets to identify those containing mean or unfair words, especially those that are racist or sexist. The primary goal is to determine if a tweet has a negative sentiment related to race or gender.
+  ### Dataset
+The dataset used for this analysis is available on Kaggle: Twitter Sentiment Analysis.
+ #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
  
- ### Libraries Used
+ ### Examples of The Libraries Used:
 #### Data Manipulation: pandas, numpy
 #### Visualization: matplotlib, seaborn, wordcloud
 #### Text Processing: re, string, nltk
 #### Model Building: sklearn
 #### Warnings Handling: warnings
-### Data Preprocessing
+### Data Preprocessing:
 #### Load Dataset: Read the CSV file into a pandas DataFrame.
 #### Drop Irrelevant Columns: Removed the 'id' column.
 #### Remove Twitter Handles: Removed all words starting with '@' using regex.
@@ -84,15 +87,12 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 #### Tokenize Tweets: Split tweets into individual words.
 #### Stemming: Reduced words to their base form using the PorterStemmer.
 #### Reconstruct Tweets: Combined the stemmed words back into sentences.
-### Exploratory Data Analysis
+### Exploratory Data Analysis:
 #### Word Cloud Visualization
 #### All Tweets: Identified commonly used words. Larger words indicate higher frequency.
 
 
 #### Positive Tweets: Highlighted frequent positive words like 'love' and 'thank'.
- ### Dataset
-The dataset used for this analysis is available on Kaggle: Twitter Sentiment Analysis.
- #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
 
 #### Show a picture that highlights words associated with positivity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/Poitivity.png)
@@ -102,7 +102,7 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/ngetivity.png)
 
 
-### Hashtag Analysis
+### Hashtag Analysis:
 #### Extracted hashtags from tweets to identify trends and patterns.
 
 ### Visualized the top 10 hashtags for both positive and negative sentiments.
@@ -113,7 +113,7 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 
 
 
-### Feature Engineering
+### Feature Engineering:
 Feature engineering is a crucial step in preparing data for machine learning. Since machines cannot directly understand words or text, we need to convert them into vectors using TF-IDF, a technique that often provides better accuracy compared to other vectorization methods in NLP.
 
 #### 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
@@ -135,17 +135,17 @@ Feature engineering is a crucial step in preparing data for machine learning. Si
 ### Conclusion
 We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying TF-IDF weighting. Then, we built several classification models to categorize future tweets, with the SVM model achieving the highest accuracy. The best model can be used to predict the sentiments of new tweets, enabling better monitoring of harmful content on social media.
 
-#### Limitations
+#### Limitations:
 ##### Other text preprocessing techniques might improve accuracy and evaluation scores.
 ##### Advanced models not tested here could potentially yield better results.
-#### Strengths
+#### Strengths:
 #### Multiple models were tested to determine the best fit.
 #### Comprehensive preprocessing ensured cleaner data for analysis.
-#### Implications
+#### Implications:
 ##### The best model can be used to predict the sentiments of new tweets, helping to identify and address harmful content in real-time.
 
 
- #### Feel free to explore the repository(Project 2/File) to gain detailed insights.
+ ##### Feel free to explore the repository(Project 2/File) to gain detailed insights.
 
 
 
