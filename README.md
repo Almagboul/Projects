@@ -35,7 +35,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/osm%202.png)
 
 ### An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals as:
-### Course Overview contains:
+### Visual 1 , Course Overview contains:
 
 #### Trend of published courses over time
 #### Distribution of free vs paid courses
@@ -43,7 +43,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Course distribution by subject
 #### Number of courses by level
 
-### Subscriber and Pricing Overview contains:
+### Visual 2 , Subscriber and Pricing Overview contains:
 
 #### Number of subscribers by subject
 #### Top courses by number of subscribers
