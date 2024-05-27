@@ -75,13 +75,13 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
  In this task I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
  
 
-#### Show a picture that highlights words associated with positivity.
+#### Show a picture that highlights words associated with positivity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/Poitivity.png)
 
-#### Show a picture that highlights words associated with negativity.
+#### Show a picture that highlights words associated with negativity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/ngetivity.png)
 
-#### Ranking and visulizing the top 10 tweets with positive sentiments.
+#### Ranking and visulizing the top 10 tweets with positive sentiments:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/posi.png)
 #### Ranking and visulizing the top 10 tweets with negative sentiments:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/neg.png)
