@@ -1,8 +1,8 @@
 ### welcome to my Data Analytics Projects
 
 
-# Project 1 Data Analysis Using Python & Power BI
-## (Title: Udemy Courses Analysis)
+# Project 1  Udemy Courses Analysis (Data Analysis Using Python & Power BI)
+
 
 ### Overview
 This project analyzes a dataset of Udemy courses to uncover insights about course offerings, popularity, and trends over time. The dataset includes attributes such as course title, price, number of subscribers, number of reviews, and more. The goal is to provide valuable information for business decisions and strategic planning.
@@ -63,7 +63,7 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 #### Feel free to explore the repository(Project 1/File) and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 
-# Project 2  BIG DATA Analytics(NLP) Using Python
+# Project 2  Twitter Sentiment Analysis (Big Data Analytics Using Python)
 ## (Title:Twitter Sentiment Analysis)
 
 ### Dataset
