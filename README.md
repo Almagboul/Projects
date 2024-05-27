@@ -6,7 +6,7 @@
 
 ### Overview
 This project analyzes a dataset of Udemy courses to uncover insights about course offerings, popularity, and trends over time. The dataset includes attributes such as course title, price, number of subscribers, number of reviews, and more. The goal is to provide valuable information for business decisions and strategic planning.
-### Dataset
+### Dataset:
 The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### source of data: https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
 ## Analysis and Insights
@@ -68,7 +68,7 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 ### Introduction
 
  This project analyzes tweets to identify those containing mean or unfair words, especially those that are racist or sexist. The primary goal is to determine if a tweet has a negative sentiment related to race or gender.
-  ### Dataset
+  ### Dataset:
 The dataset used for this analysis is available on Kaggle: Twitter Sentiment Analysis.
  #### Source of Data: https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?resource=download
  
@@ -123,9 +123,9 @@ Feature engineering is a crucial step in preparing data for machine learning. Si
 #### SVM: 96.24%
 #### Random Forest: 92.98%
 #### KNN: 94.88%
-### Sentiment Prediction on New Data
+### Sentiment Prediction on New Data:
 #### 1.Load and Preprocess Test Data
-#### 2.Vectorization and Sentiment Prediction:
+#### 2.Vectorization and Sentiment Prediction
 
 ### Repository(Project 2/File) Contents:
 
