@@ -105,7 +105,7 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ### Hashtag Analysis:
 #### Extracted hashtags from tweets to identify trends and patterns.
 
-### Visualized the top 10 hashtags for both positive and negative sentiments.
+#### Visualized the top 10 hashtags for both positive and negative sentiments.
 #### Ranking and visulizing the top 10 tweets with positive sentiments:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/posi.png)
 #### Ranking and visulizing the top 10 tweets with negative sentiments:
@@ -116,8 +116,8 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ### Feature Engineering:
 Feature engineering is a crucial step in preparing data for machine learning. Since machines cannot directly understand words or text, we need to convert them into vectors using TF-IDF, a technique that often provides better accuracy compared to other vectorization methods in NLP.
 
-#### 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
-#### 2.Split Data into Training and Testing Sets:
+ 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
+ 2.Split Data into Training and Testing Sets:
 ### Model Accuracy Comparison:
 #### Decision Tree: 94.65%
 #### SVM: 96.24%
@@ -145,7 +145,7 @@ We analyzed commonly used words and hashtags both in general and within racist/s
 ##### The best model can be used to predict the sentiments of new tweets, helping to identify and address harmful content in real-time.
 
 
- ##### Feel free to explore the repository(Project 2/File) to gain detailed insights.
+  #### Feel free to explore the repository(Project 2/File) to gain detailed insights.
 
 
 
