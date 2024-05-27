@@ -29,7 +29,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Total Sales: $881674940.00.
 #### Average Order Value: $240107.55.
 
-  ####                      Udemy Courses Dashboard
+### Udemy Courses Dashboard:
 
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/osm%201.png)
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/osm%202.png)
