@@ -51,7 +51,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Number of courses in each subject with regard to price category
 #### Number of courses in each subject with regard to courses levels
 
-### Repository(Project 1/File) Contents
+### Repository(Project 1/File) Contents:
 
 ##### cleaned udemy_courses.csv: Cleaned dataset used for analysis.
 ##### Modified _udemy_courses.csv: Modified dataset used for crating the Dashboard.
@@ -87,7 +87,7 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/neg.png)
 
  
-#### Repository(Project 2/File) Contents
+#### Repository(Project 2/File) Contents:
 
 ##### train & test .csv
 ##### Project 2.ipynb & html
