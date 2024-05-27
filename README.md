@@ -76,7 +76,7 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
  
 
 #### Show a picture that highlights words associated with positivity.
-![Alt text]()
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photo%201/Poitivity.png)
 
 #### Ranking and visulizing the top 10 tweets with positive sentiments.
 ![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
