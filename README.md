@@ -88,16 +88,16 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 #### Stemming: Reduced words to their base form using the PorterStemmer.
 #### Reconstruct Tweets: Combined the stemmed words back into sentences.
 ### Exploratory Data Analysis:
-#### Word Cloud Visualization
+### Word Cloud Visualization:
 #### All Tweets: Identified commonly used words. Larger words indicate higher frequency.
-
+#### Negative Tweets: Highlighted frequent negative words, including racist and sexist terms like 'black' and 'women'.
 
 #### Positive Tweets: Highlighted frequent positive words like 'love' and 'thank'.
 
 #### Show a picture that highlights words associated with positivity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/Poitivity.png)
 
-#### Negative Tweets: Highlighted frequent negative words, including racist and sexist terms like 'black' and 'women'.
+
 #### Show a picture that highlights words associated with negativity:
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/ngetivity.png)
 
