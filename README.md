@@ -31,8 +31,8 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 
 ### Udemy Courses Dashboard
 
-![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%201.png)
-![Alt text](https://github.com/Almagboul/Projects/blob/main/photo/osm%202.png)
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/osm%201.png)
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/osm%202.png)
 
 ### An interactive Power BI dashboard was created to enable dynamic exploration of the dataset. The dashboard includes visuals as:
 ### Course Overview contains:
@@ -76,14 +76,15 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
  
 
 #### Show a picture that highlights words associated with positivity.
-![Alt text](https://github.com/Almagboul/Projects/blob/main/photo%201/Poitivity.png)
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/Poitivity.png)
 
 #### Show a picture that highlights words associated with negativity.
-![Alt text]()
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/ngetivity.png)
 
 #### Ranking and visulizing the top 10 tweets with positive sentiments.
-![Alt text](https://github.com/Almagboul/Project/blob/main/posi.png)
-#### Ranking and visulizing the top 10 tweets with negative sentiments
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/posi.png)
+#### Ranking and visulizing the top 10 tweets with negative sentiments:
+![Alt text](https://github.com/Almagboul/Projects/blob/main/photos/neg.png)
 
  
 #### Repository(Project 2/File) Contents
