@@ -67,7 +67,6 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
  
 ### Introduction
 
- In this task I need to find and report tweets with mean or unfair words, especially those that are racist or sexist. I'll be watching all tweets, and if I find any with these bad words, I'll point them out. The main job is figuring out if a tweet is being mean about race or gender.
  This project analyzes tweets to identify those containing mean or unfair words, especially those that are racist or sexist. The primary goal is to determine if a tweet has a negative sentiment related to race or gender.
  
  ### Libraries Used
