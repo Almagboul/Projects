@@ -54,8 +54,8 @@ The dataset used for this analysis is available on Kaggle: Twitter Sentiment Ana
 ### Feature Engineering:
 Feature engineering is a crucial step in preparing data for machine learning. Since machines cannot directly understand words or text, we need to convert them into vectors using TF-IDF, a technique that often provides better accuracy compared to other vectorization methods in NLP.
 
- 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
- 2.Split Data into Training and Testing Sets:
+ #### 1.Vectorization using TF-IDF: Limited the number of features to 1000 to prevent the model from considering too many features. Stop words were removed, and features were extracted from the updated tweets.
+ #### 2.Split Data into Training and Testing Sets:
 ### Model Accuracy Comparison:
 #### Decision Tree: 94.65%
 #### SVM: 96.24%
