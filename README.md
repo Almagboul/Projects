@@ -68,7 +68,7 @@ Feature engineering is a crucial step in preparing data for machine learning. Si
 ### Repository(Project 1/File) Contents:
 
 #### train & test .csv
-#### Project 2.ipynb & html
+#### Project 1.ipynb & html
 
 ### Conclusion
 We analyzed commonly used words and hashtags both in general and within racist/sexist tweets. We extracted features by measuring word tokens and applying TF-IDF weighting. Then, we built several classification models to categorize future tweets, with the SVM model achieving the highest accuracy. The best model can be used to predict the sentiments of new tweets, enabling better monitoring of harmful content on social media.
@@ -136,7 +136,7 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 #### Number of courses in each subject with regard to price category
 #### Number of courses in each subject with regard to courses levels
 
-### Repository(Project 1/File) Contents:
+### Repository(Project 2/File) Contents:
 
 ##### cleaned udemy_courses.csv: Cleaned dataset used for analysis.
 ##### Modified _udemy_courses.csv: Modified dataset used for crating the Dashboard.
