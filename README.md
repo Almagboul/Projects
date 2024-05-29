@@ -188,6 +188,7 @@ Using Tableau, we created interactive dashboards to visualize the insights deriv
 #### •	Line Chart: Monthly sales and profit trends.
 #### •	Bar Chart: Top 10 products by total sales.
 #### •	Map: Sales distribution by geographical regions.
+![Alt text](https://github.com/Almagboul/Projects/blob/main/new%20photos/new.png)
 
 
 
