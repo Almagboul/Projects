@@ -148,7 +148,48 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 #### Feel free to explore the repository(Project 2/File) and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 # Project 3 SuperMart Sales and Customer Analysis (Data Analysis Using SQL & Tableau) 
-### I will share it soon
+### "woProject 
+## Overview
+This project involves analyzing sales, customer, and product data from the SuperMart dataset using PostgreSQL for data querying and Tableau for visualization. The goal is to extract meaningful insights into customer demographics, sales performance, and product trends to inform business decisions.
+### Dataset
+#### The dataset consists of three tables:
+##### Customer: Contains customer information such as customer ID, name, and location.
+##### Product: Contains product information such as product ID, name, and category.
+##### Sales: Contains sales information such as sales ID, product ID, customer ID, order date, and sales amount.
+### SQL Analysis
+Using PostgreSQL, we performed various queries to analyze the data. Below are some of the key SQL queries used:
+### SQL Queries
+### Customer Analysis:
+#### 1.Number of Customers by Country
+#### 2.Customer Segments Distribution
+#### 3.Average Age of Customers by Region
+### Product Analysis:
+#### 1.Number of Products by Category
+#### 2.Top 10 Most Popular Products
+#### 3.Sales by Product Category
+### Sales Analysis:
+#### 1.Total Sales, Quantity Sold, and Profit by Customer
+#### 2.Sales Performance by Month
+#### 3.Top 5 Most Profitable Customers
+#### 4.Average Discount Given by Product Category
+### Combined Analysis:
+#### 1.Sales and Profit by Region and Segment
+#### 2.Customer Lifetime Value (CLV)
+#### 3.Sales by Shipping Mode:
+### Deep Insights
+#### 1.Repeat Customers Analysis
+#### 2.Sales Trends by Year:
+#### 3.Impact of Discount on Sales:
+
+
+## Tableau Visualization
+Using Tableau, we created interactive dashboards to visualize the insights derived from the SQL queries. Below are the key visualizations and dashboards:
+### Sales Performance Dashboard Contains
+#### •	Line Chart: Monthly sales and profit trends.
+#### •	Bar Chart: Top 10 products by total sales.
+#### •	Map: Sales distribution by geographical regions.
+
+
 
 
 
