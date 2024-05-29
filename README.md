@@ -190,9 +190,15 @@ Using Tableau, we created interactive dashboards to visualize the insights deriv
 #### •	Map: Sales distribution by geographical regions.
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/new%20photos/new.png)
 ### 2. Product Analysis Dashboard
+#### ----
 ### 3. Customer Insights Dashboard
+#### ----
+### Repository Structure
+###----
+
+## Conclusion
 
 
-
+### Acknowledgments
 
 
