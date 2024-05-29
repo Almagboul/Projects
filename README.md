@@ -184,11 +184,13 @@ Using PostgreSQL, we performed various queries to analyze the data. Below are so
 
 ## Tableau Visualization
 Using Tableau, we created interactive dashboards to visualize the insights derived from the SQL queries. Below are the key visualizations and dashboards:
-### Sales Performance Dashboard Contains
+### 1. Sales Performance Dashboard Contains
 #### •	Line Chart: Monthly sales and profit trends.
 #### •	Bar Chart: Top 10 products by total sales.
 #### •	Map: Sales distribution by geographical regions.
 ![Alt text](https://github.com/Almagboul/Projects/blob/main/new%20photos/new.png)
+### 2. Product Analysis Dashboard
+### 3. Customer Insights Dashboard
 
 
 
