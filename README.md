@@ -194,11 +194,11 @@ Using Tableau, we created interactive dashboards to visualize the insights deriv
 ### 3. Customer Insights Dashboard
 #### ----
 ### Repository Structure
-###----
+### ----
 
 ## Conclusion
-
+### ----
 
 ### Acknowledgments
-
+### ----
 
