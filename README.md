@@ -147,5 +147,8 @@ The dataset used for this analysis is available on Kaggle: Udemy Courses .
 This analysis provides comprehensive insights into Udemy's course offerings and trends. The Power BI dashboard facilitates interactive exploration, making it a valuable tool for data-driven decision-making.
 #### Feel free to explore the repository(Project 2/File) and the dashboard to gain deeper insights into the Udemy courses dataset.
 
+# Project 3 Supermart Sales and Customer Analysis (Data Analysis Using SQL & Tableau) 
+### I will share it soon
+
 
 
