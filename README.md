@@ -148,7 +148,7 @@ This analysis provides comprehensive insights into Udemy's course offerings and 
 #### Feel free to explore the repository(Project 2/File) and the dashboard to gain deeper insights into the Udemy courses dataset.
 
 # Project 3 SuperMart Sales and Customer Analysis (Data Analysis Using SQL & Tableau) 
-### "working on the project" 
+### "working on the project---------" 
 ## Overview
 This project involves analyzing sales, customer, and product data from the SuperMart dataset using PostgreSQL for data querying and Tableau for visualization. The goal is to extract meaningful insights into customer demographics, sales performance, and product trends to inform business decisions.
 ### Dataset
